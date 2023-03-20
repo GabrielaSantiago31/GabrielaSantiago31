@@ -7,8 +7,8 @@
 <br/>
 <div>
   <a href="https://www.linkedin.com/in/gabriela-santiago-9a854a17b/">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielaSantiago31&show_icons=true&theme=onedark&include_all_commits-true&count_private-true">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaSantiago31&layout=compact&langs_count=16&theme=onedark"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielaSantiago31&show_icons=true&theme=onedark&include_all_commits-true&count_private-true">
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielaSantiago31&theme=onedark&line_height=40&hide=css"/> 
 </div>
 <br/>
 <div>
