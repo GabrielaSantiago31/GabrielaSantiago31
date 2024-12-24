@@ -12,7 +12,7 @@
 </div>
 <br/>
 <div>
-  <img align="center" alt="Gabi-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Gabi-Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Gabi-Java" height="30" width="30" src="https://img.icons8.com/color/48/spring-logo.png" />
   <img align="center" alt="Gabi-Git" height="40" width="50" src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor" />
   <img align="center" alt="Gabi-Docker" height="40" width="50" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />
