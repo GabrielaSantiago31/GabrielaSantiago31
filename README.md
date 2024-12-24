@@ -2,7 +2,7 @@
 
 ##
 - 🔭 Hoje trabalho com back-end
-- 🌱 Aprendendo Java e Spring Boot
+- 🌱 Aprendendo e trabalhando com Java e Spring Boot
 - 😄 Pronouns: ela/dela
 <br/>
 <div>
